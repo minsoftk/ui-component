@@ -1,2 +1,2 @@
-# UI-component
-JS, React로 만든 UI 컴포넌트
+# ui-component
+JS, React로 만든 UI 요소
